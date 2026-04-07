@@ -2,7 +2,7 @@
 # Overview
 A lightweight ML model that detects whether a news article is **real or fake** using NLP techniques.
 
-#Key Features
+# Key Features
 * Accurate classification
 * Clean and simple workflow
 * Quick predictions
@@ -13,7 +13,7 @@ Python • Scikit-learn • Pandas • NLP
 pip install -r requirements.txt
 python app.py
 ```
-Goal
+# Goal
 Detect and classify news as real or fake
 Reduce the spread of misinformation
 Provide quick and reliable verification

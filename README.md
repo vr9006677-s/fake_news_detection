@@ -14,9 +14,9 @@ pip install -r requirements.txt
 python app.py
 ```
 # Goal
-Detect and classify news as real or fake
-Reduce the spread of misinformation
-Provide quick and reliable verification
-Apply machine learning for real-world problem solving
+* Detect and classify news as real or fake
+* Reduce the spread of misinformation
+* Provide quick and reliable verification
+* Apply machine learning for real-world problem solving
 # Author
 Varsha Rani
